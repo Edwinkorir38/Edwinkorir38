@@ -1,5 +1,5 @@
 # 💫 About Me:
-## Hi there 👋<br><br>I’m Edwin, a Data Analyst with strong experience in Python, SQL, Tableau, and business intelligence. I specialize in data analysis, visualization, and machine learning to deliver actionable insights that support data-driven decision-making. I enjoy working on real-world projects, collaborating with cross-functional teams, and continuously improving my analytical skills.<br>
+## Hi there 👋<br><br>I’m Edwin, a Data Scientist with strong experience in Python, SQL, Tableau, and business intelligence. I specialize in data analysis, visualization, and machine learning to deliver actionable insights that support data-driven decision-making. I enjoy working on real-world projects, collaborating with cross-functional teams, and continuously improving my analytical skills.<br>
 
 
 ## 🌐 Socials:

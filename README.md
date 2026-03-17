@@ -1,6 +1,21 @@
 # 💫 About Me:
-## Hi there 👋<br><br>I’m Edwin, a Data Scientist with strong experience in Python, SQL, Tableau, and business intelligence. I specialize in data analysis, visualization, and machine learning to deliver actionable insights that support data-driven decision-making. I enjoy working on real-world projects, collaborating with cross-functional teams, and continuously improving my analytical skills.<br>
+## Hi there 👋<br><br>I’m Edwin, a Data Scientist with strong experience in Python, SQL, Tableau, and business intelligence. I specialize in data analysis, visualization, and machine learning to deliver actionable insights that support data-driven decision-making. I enjoy working on real-world projects, collaborating with cross-functional teams, and continuously improving my analytical skills.
+* 🔭 Looking Forward: I'm excited to embrace new challenges and opportunities!
+<br>
 
+## Fun Facts 😄
+
+🐍 Started with “Hello World”… now I argue with datasets and occasionally win
+
+📊 Turning data into insights (and sometimes controversial opinions 😄)
+
+⚽ Football analyst in my head — loyal to Manchester United through pain and glory 🔴
+
+🚴‍♂️ Cycling = free therapy + thinking time
+
+🌿 Nature walks just to reconnect… and overthink ideas
+
+💻 Debugging code like: “it worked yesterday, what changed?”
 
 ## 🌐 Socials:
  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/edduh_lamor) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edwin-korir-90a794382/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@kipedd) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ekorir99) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ekorir99) 
@@ -15,8 +30,9 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Edwinkorir38&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### 🧠 Quote I Live By
+
+“From Hello World to real-world impact — one line of code at a time.” 🚀
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Edwinkorir38&limit=5&theme=dark&combine_all_yearly_contributions=true)
